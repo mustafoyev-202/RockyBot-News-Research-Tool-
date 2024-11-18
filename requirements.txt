@@ -1,0 +1,7 @@
+streamlit
+langchain
+faiss-cpu
+google-generativeai
+unstructured
+python-dotenv
+ollama
