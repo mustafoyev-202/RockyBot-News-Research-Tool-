@@ -6,3 +6,4 @@ unstructured
 python-dotenv
 ollama
 langchain-community
+langchain_google_genai
