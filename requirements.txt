@@ -5,3 +5,4 @@ google-generativeai
 unstructured
 python-dotenv
 ollama
+langchain-community
